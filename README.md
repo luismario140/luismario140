@@ -1,16 +1,27 @@
-## Hi there 👋
+🎓 Técnico en Desarrollo de Software
 
-<!--
-**luismario140/luismario140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Software
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+### Lenguajes
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,kotlin,cs,php,dart,lua)](https://skillicons.dev)
+
+### Desarrollo Web
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs)](https://skillicons.dev)
+
+### Desarrollo de Aplicaciones
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev)
+
+### Bases de datos
+
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+### Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
