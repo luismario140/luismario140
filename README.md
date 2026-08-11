@@ -8,7 +8,7 @@
 
 ### Lenguajes
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,kotlin,cs,php,dart,lua)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,dotnet,javascript,kotlin,cs,php,dart,lua)](https://skillicons.dev)
 
 ### Desarrollo Web
 
@@ -24,4 +24,4 @@
 
 ### Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion,discord)](https://skillicons.dev)
