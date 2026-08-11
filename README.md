@@ -24,4 +24,4 @@
 
 ### Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,arduino,notion,discord,vercel,vite)](https://skillicons.dev)
