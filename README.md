@@ -12,7 +12,7 @@
 
 ### Desarrollo Web
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,ruby,react,nodejs)](https://skillicons.dev)
 
 ### Desarrollo de Aplicaciones
 
