@@ -16,7 +16,7 @@
 
 ### Desarrollo de Aplicaciones
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,electron)](https://skillicons.dev)
 
 ### Bases de datos
 
